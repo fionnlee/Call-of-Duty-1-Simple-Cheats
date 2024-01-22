@@ -16,6 +16,7 @@ I made simple cheats for fun.
 # CoD Trigger Bot with Key
 
 `Note : Actually, I didn't find a good value for the trigger bot; sometimes it gets bugged. When weapons change, etc., hold the CTRL key to enable the hack and aim at the enemy skin.`
+<br>
 `Bugs : while weapons change and teammate skins also trigger. Find your own management trick if you use this hack.`
 
 # CoD Trigger Bot without Key
