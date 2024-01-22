@@ -6,7 +6,7 @@ I made simple cheats for fun.
 `First, join any server and run the hack application.`
 
 # CoD Fly Hack
-![CoD Fly Hack](https://github.com/fionnlee/Call-of-Duty-1-Simple-Cheat/blob/main/screenshots/flyhack.jpg)https://github.com/fionnlee/Call-of-Duty-1-Simple-Cheat/blob/main/screenshots/flyhack.jpg)
+![CoD Fly Hack](https://github.com/fionnlee/Call-of-Duty-1-Simple-Cheat/blob/main/screenshots/flyhack.jpg)
 
 # CoD No Recoil and No Spread
 
