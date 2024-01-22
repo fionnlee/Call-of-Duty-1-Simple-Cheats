@@ -25,10 +25,14 @@ I made simple cheats for fun.
 
 # Virust-Total Results
 
-[CoD Fly Hack]([https://www.google.com](https://www.virustotal.com/gui/url/a765414d9280099c5184cc6e186bea82015374ccfed60d3ee21951ac787e21b4/detection))
+[CoD Fly Hack](https://www.virustotal.com/gui/url/a765414d9280099c5184cc6e186bea82015374ccfed60d3ee21951ac787e21b4/detection)
+<br>
 [CoD No Recoil & No Spread](https://www.google.com)
+<br>
 [CoD Rapid Fire](https://www.google.com)
+<br>
 [CoD Trigger Bot with Key](https://www.google.com)
+<br>
 [CoD Trigger Bot without Key](https://www.google.com)
 
 
