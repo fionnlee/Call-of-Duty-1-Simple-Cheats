@@ -13,6 +13,10 @@ I made simple cheats for fun.
 
 ![CoD No Recoil and No Spread](https://github.com/fionnlee/Call-of-Duty-1-Simple-Cheat/blob/main/screenshots/no-recoil-%26-no-spread.jpg)
 
+# CoD Rapid Fire
+
+`Note : Press the left mouse button for fast fire. However, when the server uses anti-fast fire, it detects and automatically punishes.`
+
 # CoD Trigger Bot with Key
 
 `Note : Actually, I didn't find a good value for the trigger bot; sometimes it gets bugged. When weapons change, etc., hold the CTRL key to enable the hack and aim at the enemy skin.`
