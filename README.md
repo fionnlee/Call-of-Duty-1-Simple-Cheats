@@ -27,7 +27,7 @@ I made simple cheats for fun.
 
 `Note : trigger bot without key means there is no need to press and button to enbale it. bugs weren't fixed.`
 
-# Virust-Total Results
+# Virus-Total Results
 
 [CoD Fly Hack](https://www.virustotal.com/gui/url/a765414d9280099c5184cc6e186bea82015374ccfed60d3ee21951ac787e21b4/detection)
 <br>
