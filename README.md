@@ -3,7 +3,7 @@ I made simple cheats for fun.
 
 # How to run
 
-`First, join any server and run the hack application.`
+`First, join any server and run the hack application.`*(work for the 1.1 version and the 1.1x version)*  
 
 # CoD Fly Hack
 ![CoD Fly Hack](https://github.com/fionnlee/Call-of-Duty-1-Simple-Cheat/blob/main/screenshots/flyhack.jpg)
